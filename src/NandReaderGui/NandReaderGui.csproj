@@ -117,7 +117,7 @@
       <Project>{ab503d24-f702-4e6e-b615-a9c7bda218d1}</Project>
       <Name>LibHac.Nand</Name>
     </ProjectReference>
-    <ProjectReference Include="..\LibHac\LibHac.csproj">
+    <ProjectReference Include="..\LibHac\src\LibHac\LibHac.csproj">
       <Project>{ffca6c31-d9d4-4ed8-a06d-0cc6b94422b8}</Project>
       <Name>LibHac</Name>
     </ProjectReference>

@@ -1,0 +1,3 @@
+[submodule "src/LibHac"]
+	path = src/LibHac
+	url = git@github.com:Thealexbarney/LibHac.git

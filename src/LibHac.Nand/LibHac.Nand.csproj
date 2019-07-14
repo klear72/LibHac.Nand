@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LibHac\LibHac.csproj" />
+    <ProjectReference Include="..\LibHac\src\LibHac\LibHac.csproj" />
   </ItemGroup>
 
 </Project>
